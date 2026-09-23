@@ -1,0 +1,8 @@
+Follow human-receipt.
+
+Goal: 
+Context: 
+Do: 
+Don’t: 
+Output: 
+Done when: 
